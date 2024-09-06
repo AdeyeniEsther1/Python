@@ -99,4 +99,5 @@ These projects helped me gain hands-on experience with Python's syntax, function
 
 # Author
 Esther Adeyeni
+
 Data Scientist | Data Analyst 
