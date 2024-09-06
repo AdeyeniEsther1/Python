@@ -25,6 +25,7 @@ This repository showcases various Python projects I've worked on to strengthen m
    
 1.1  **Pizza Order Program:**
 This project focuses on mastering Python's basic syntax, particularly user interaction through input/output functions.
+
 **Features**:
 - Asks customers for their pizza preferences (e.g., size, toppings).
 - Calculates the total cost based on the selected options.
@@ -39,6 +40,7 @@ This project focuses on mastering Python's basic syntax, particularly user inter
    
 2.1 **Simple Calculator**
 This project involves building a basic calculator to perform arithmetic operations such as addition, subtraction, multiplication, and division.
+
 **Features:**
 - Takes two numbers as input.
 - Performs the selected arithmetic operation.
@@ -53,6 +55,7 @@ This project involves building a basic calculator to perform arithmetic operatio
    
 3.1 **Bank Account**
 This project demonstrates how to use OOP principles to simulate bank account management.
+
 **Features:**
 - Create a bank account with an initial balance.
 - Deposit and withdraw funds.
@@ -65,6 +68,7 @@ This project demonstrates how to use OOP principles to simulate bank account man
   
 3.2 **Advanced Calculator**
 An extension of the basic calculator using OOP principles, offering advanced functionalities.
+
 **Features:**
 - Handles multiple arithmetic operations.
 - Modular design for easier expansion of functionalities.
@@ -79,6 +83,7 @@ An extension of the basic calculator using OOP principles, offering advanced fun
    
 4.1 **Shopping List Program**
 This project utilizes Python's data structures, specifically lists, to create a shopping list manager.
+
 **Features:**
 - Add, remove, and view items in the shopping list.
 - Displays the current shopping list.
