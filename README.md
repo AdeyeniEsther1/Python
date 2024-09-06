@@ -23,18 +23,19 @@ This repository showcases various Python projects I've worked on to strengthen m
 
 1. **Python Syntax**
    
-1.1 **Pizza Order Program**
+1.1  **Pizza Order Program:**
 This project focuses on mastering Python's basic syntax, particularly user interaction through input/output functions.
 **Features**:
 - Asks customers for their pizza preferences (e.g., size, toppings).
 - Calculates the total cost based on the selected options.
 - Provides a summary of the order.
+  
 **Key Concepts:**
 - Conditional statements (if-elif-else)
 - Loops
 - Handling user input with input()
   
-2. **Python Functions**
+2. **Python Functions:**
    
 2.1 **Simple Calculator**
 This project involves building a basic calculator to perform arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -42,12 +43,13 @@ This project involves building a basic calculator to perform arithmetic operatio
 - Takes two numbers as input.
 - Performs the selected arithmetic operation.
 - Displays the result.
+  
 **Key Concepts:**
 - Function creation and usage (def)
 - Arithmetic operators
 - Return statements
   
-3. **Object-Oriented Programming (OOP)**
+3. **Object-Oriented Programming (OOP):**
    
 3.1 **Bank Account**
 This project demonstrates how to use OOP principles to simulate bank account management.
@@ -55,6 +57,7 @@ This project demonstrates how to use OOP principles to simulate bank account man
 - Create a bank account with an initial balance.
 - Deposit and withdraw funds.
 - Check account balance.
+  
 **Key Concepts:**
 - Classes and objects
 - Constructors (__init__)
@@ -66,6 +69,7 @@ An extension of the basic calculator using OOP principles, offering advanced fun
 - Handles multiple arithmetic operations.
 - Modular design for easier expansion of functionalities.
 - Supports advanced calculations like power and square root.
+  
 **Key Concepts:**
 - Class-based design
 - Inheritance
@@ -79,6 +83,7 @@ This project utilizes Python's data structures, specifically lists, to create a 
 - Add, remove, and view items in the shopping list.
 - Displays the current shopping list.
 - Option to clear the entire list.
+  
 **Key Concepts:**
 - List operations (append(), remove(), clear())
 - Looping through lists
