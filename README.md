@@ -38,7 +38,7 @@ This project focuses on mastering Python's basic syntax, particularly user inter
   
 2. **Python Functions:**
    
-2.1 **Simple Calculator**
+2.1 **Simple Calculator:**
 This project involves building a basic calculator to perform arithmetic operations such as addition, subtraction, multiplication, and division.
 
 **Features:**
@@ -53,7 +53,7 @@ This project involves building a basic calculator to perform arithmetic operatio
   
 3. **Object-Oriented Programming (OOP):**
    
-3.1 **Bank Account**
+3.1 **Bank Account:**
 This project demonstrates how to use OOP principles to simulate bank account management.
 
 **Features:**
@@ -66,7 +66,7 @@ This project demonstrates how to use OOP principles to simulate bank account man
 - Constructors (__init__)
 - Encapsulation (private and public methods)
   
-3.2 **Advanced Calculator**
+3.2 **Advanced Calculator:**
 An extension of the basic calculator using OOP principles, offering advanced functionalities.
 
 **Features:**
@@ -79,9 +79,9 @@ An extension of the basic calculator using OOP principles, offering advanced fun
 - Inheritance
 - Method overloading
   
-4. **Python Data Structures**
+4. **Python Data Structures:**
    
-4.1 **Shopping List Program**
+4.1 **Shopping List Program:**
 This project utilizes Python's data structures, specifically lists, to create a shopping list manager.
 
 **Features:**
