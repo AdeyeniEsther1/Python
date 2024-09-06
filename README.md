@@ -3,13 +3,21 @@ This repository showcases various Python projects I've worked on to strengthen m
 
 **Table of Contents**
 1. **Python Syntax**
+   
 1.1 [Pizza Order Program](https://github.com/AdeyeniEsther1/Python/blob/main/Basic_Python/PythonSyntax.ipynb)
+
 2. **Python Functions**
+   
 2.1 [Simple Calculator](https://github.com/AdeyeniEsther1/Python/blob/main/Basic_Python/PythonFunction(BuildingACalculator).ipynb)
+
 3. **Object-Oriented Programming (OOP)**
+   
 3.1 [Bank Account](https://github.com/AdeyeniEsther1/Python/blob/main/Basic_Python/Creating_a_bank_account(OOP).ipynb)
+
 3.2 [Advanced Calculator](https://github.com/AdeyeniEsther1/Python/blob/main/Basic_Python/Advanced_Calculator(OOP).ipynb)
+
 4. **Python Data Structures**
+   
 4.1 [Shopping List Program](https://github.com/AdeyeniEsther1/Python/blob/main/Basic_Python/PythonDataStructure.ipynb)
 
 
