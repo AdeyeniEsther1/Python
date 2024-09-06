@@ -93,3 +93,10 @@ This project utilizes Python's data structures, specifically lists, to create a 
 - List operations (append(), remove(), clear())
 - Looping through lists
 - Managing user inputs
+
+**Conclusion**
+These projects helped me gain hands-on experience with Python's syntax, functions, OOP, and data structures. Each project builds on the previous one, progressively increasing in complexity. Feel free to explore the code and provide feedback.
+
+**Author**
+Esther
+Data Scientist | Data Analyst 
