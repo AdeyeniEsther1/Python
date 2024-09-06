@@ -21,7 +21,7 @@ This repository showcases various Python projects I've worked on to strengthen m
 4.1 [Shopping List Program](https://github.com/AdeyeniEsther1/Python/blob/main/Basic_Python/PythonDataStructure.ipynb)
 
 
-1. # Python Syntax
+ # Python Syntax
    
 1.1  **Pizza Order Program:**
 This project focuses on mastering Python's basic syntax, particularly user interaction through input/output functions.
@@ -36,7 +36,7 @@ This project focuses on mastering Python's basic syntax, particularly user inter
 - Loops
 - Handling user input with input()
   
-2. # Python Functions
+ # Python Functions
    
 2.1 **Simple Calculator:**
 This project involves building a basic calculator to perform arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -51,7 +51,7 @@ This project involves building a basic calculator to perform arithmetic operatio
 - Arithmetic operators
 - Return statements
   
-3. # Object-Oriented Programming (OOP):
+ # Object-Oriented Programming (OOP):
    
 3.1 **Bank Account:**
 This project demonstrates how to use OOP principles to simulate bank account management.
@@ -79,7 +79,7 @@ An extension of the basic calculator using OOP principles, offering advanced fun
 - Inheritance
 - Method overloading
   
-4. # Python Data Structures
+ # Python Data Structures
    
 4.1 **Shopping List Program:**
 This project utilizes Python's data structures, specifically lists, to create a shopping list manager.
